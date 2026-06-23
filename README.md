@@ -102,4 +102,4 @@ This project is for **educational purposes only**. It does not constitute financ
 
 ---
 
-*Built by [Your Name] | Finance/Economics | UNC Chapel Hill*
+*Built by Hadi Niazi | Panther Creek High School*
