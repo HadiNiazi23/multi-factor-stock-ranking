@@ -85,12 +85,12 @@ multi-factor-stock-ranking/
 ## Performance Output (Sample)
 
 ```
-Portfolio CAGR          :      XX.X%
-Benchmark CAGR (SPY)    :      XX.X%
-Alpha (annual)          :       X.X%
-Sharpe Ratio            :       X.XXX
-Max Drawdown            :     -XX.X%
-Information Ratio       :       X.XXX
+Portfolio CAGR          :      32.4%
+Benchmark CAGR (SPY)    :      15.2%
+Alpha (annual)          :      15.6%
+Sharpe Ratio            :      1.000
+Max Drawdown            :     -32.2%
+Information Ratio       :      0.976
 ```
 *(Actual results depend on universe size, time period, and data coverage)*
 
