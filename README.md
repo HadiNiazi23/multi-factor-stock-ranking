@@ -33,7 +33,7 @@
 
 Or run locally:
 ```bash
-git clone https://github.com/yourusername/multi-factor-stock-ranking
+git clone https://github.com/HadiNiazi23/multi-factor-stock-ranking
 cd multi-factor-stock-ranking
 pip install -r requirements.txt
 python src/multi_factor_stock_ranking.py
